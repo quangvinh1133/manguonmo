@@ -1,10 +1,10 @@
 /* src/Cart.css - styles for a modern cart UI */
 :root {
-  --accent: #000000;
-  --blue: #1e88e5;
-  --bg: #f5f7fb;
-  --card: #fff;
-  --muted: #6b7280;
+  --accent: #00000000;
+  --blue: #ce320a;
+  --bg: #b0a9f1;
+  --card: #b80c0c;
+  --muted: #ffffff;
 }
 
 .cart-wrap {
@@ -116,7 +116,7 @@
   padding: 6px 10px;
   border-radius: 8px;
   border: 1px solid rgba(0, 0, 0, 0.06);
-  background: white;
+  background: rgb(2, 247, 15);
   cursor: pointer;
 }
 

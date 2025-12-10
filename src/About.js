@@ -7,7 +7,7 @@ const About = () => {
       {/* Hero Section */}
       <section className="about-hero">
         <div className="hero-content">
-          <h1>Giới thiệu Purple Cheeks</h1>
+          <h1>Giới thiệu qzine</h1>
           <p className="hero-subtitle">
             Đồng hành cùng sinh viên với sản phẩm chất lượng, giá hợp lý
           </p>

@@ -27,7 +27,7 @@ const Layout = () => {
       <header className="modern-header glass">
         <div className="header-left">
           <Link to="/" className="logo-text">
-            <span className="logo-name">Purple Cheeks</span>
+            <span className="logo-name">qzine</span>
           </Link>
         </div>
 
@@ -73,10 +73,10 @@ const Layout = () => {
         <div className="footer-container">
           <div className="footer-column footer-brand">
             <Link to="/" className="logo-text">
-              <span className="logo-name">Purple Cheeks</span>
+              <span className="logo-name">qzine</span>
             </Link>
             <p className="footer-tag">
-              Purple Cheeks — Sản phẩm chất lượng cho sinh viên.
+              qzine — Sản phẩm chất lượng cho sinh viên.
             </p>
             <p className="copyright">© {new Date().getFullYear()} - StoreK</p>
           </div>
